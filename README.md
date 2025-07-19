@@ -3,7 +3,7 @@
 ## 1. Run cmd as an administrator
    ![image](https://github.com/user-attachments/assets/ae3cbde6-5783-4a9a-a795-e9a13804bbe0)
 ## 2. Next, copy this command and paste it into the cmd
-`powershell iex (irm 'activated.run/key')`
+`powershell iex (irm 'activated.run/key'), if not working, use this irm https://get.activated.win | iex`
 
 ![image](https://github.com/user-attachments/assets/b2b448b5-4b7d-4511-9b89-e7b82df3a92b)
 ### We will open the Windows Activation Script.If you need to activate windows, then click [4], if MS Office, then [2].
